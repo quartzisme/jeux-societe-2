@@ -11,5 +11,18 @@
     "express": "^5.2.1",
     "pg": "^8.11.1",
     "sqlite3": "^5.1.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quartzisme/jeux-societe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/quartzisme/jeux-societe-2/issues"
+  },
+  "homepage": "https://github.com/quartzisme/jeux-societe-2#readme"
 }
